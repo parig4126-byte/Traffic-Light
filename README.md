@@ -13,3 +13,7 @@ An simple Traffic light using LED and Arduino
 3. Green LED: Positive (Anode) pin connected to Digital Pin 9 via a 220Ω Resistor       
 4. Common Ground: Saari LEDs ki Negative (Cathode) pins Arduino ke GND pin se connected hain
 
+# Author 
+PARI GUPTA 
+LINKEDIN: [ https://www.linkedin.com/in/pari-gupta-4a188139b ]
+E-MAIL: [ parig4126@gmail.com ]
